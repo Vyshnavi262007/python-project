@@ -9,3 +9,21 @@ Beginner-friendly Python code.
 Technologies Used
 Python 3.x
 Turtle (or PIL / OpenCV if applicable)
+Installation
+
+Clone the repository:
+
+git clone <your-repo-url>
+
+
+Install dependencies:
+
+pip install turtle
+pip install pillow  # if using PIL
+pip install opencv-python  # if using OpenCV
+Run the script:
+python ganesha.py
+
+Usage
+Run the script to see Lord Ganesha’s image.
+Modify colors, background, and size in the code to customize.
